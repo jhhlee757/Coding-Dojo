@@ -4,4 +4,4 @@ var temp;
 temp = myNumber;
 myNumber = myName;
 myName = temp;
-console.log(myNumber,myName);
+console.log(myNumber, myName);
