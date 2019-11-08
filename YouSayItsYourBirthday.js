@@ -4,5 +4,5 @@ if ((x == 1 && y == 12) || (x == 12 && y ==1)){
   console.log("How did you know?");
   }
   else {
-  console.log("Just another day...."):
+  console.log("Just another day....");
  }
