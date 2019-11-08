@@ -3,5 +3,5 @@ var myName = "Jonathan"
 var temp;
 temp = myNumber;
 myNumber = myName;
-muyName = temp;
-console.log(myNumber,myName)
+myName = temp;
+console.log(myNumber,myName);
